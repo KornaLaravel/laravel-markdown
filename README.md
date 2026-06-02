@@ -9,8 +9,8 @@
 <h1>Markdown renderer and Blade component for Laravel</h1>
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-markdown.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-markdown)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-markdown/run-tests.yml?label=Tests&branch=main)](https://github.com/spatie/laravel-markdown/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-markdown/php-cs-fixer.yml?label=Code%20Style&branch=main)](https://github.com/spatie/laravel-markdown/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![GitHub Tests Action Status](https://github.com/spatie/laravel-markdown/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/laravel-markdown/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://github.com/spatie/laravel-markdown/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/spatie/laravel-markdown/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-markdown.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-markdown)
     
 </div>
